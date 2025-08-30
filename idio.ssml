@@ -1,0 +1,64 @@
+<speak>
+  <prosody rate="medium" pitch="0%">
+    Have you ever shared a brilliant idea… only to be met with silence? <break time="400ms"/>
+    You leave the room thinking, “Am I surrounded by idiots?” <break time="500ms"/>
+
+    According to behavioral expert Thomas Erikson, the answer is no. <break time="300ms"/>
+    The truth is simpler: <prosody rate="slow" pitch="+5%">the people around you speak a different behavioral language.</prosody> <break time="400ms"/>
+    And once you learn to speak theirs, everything changes.
+  </prosody>
+
+  <break time="800ms"/>
+
+  <prosody rate="medium">
+    This is the core insight from the book Surrounded by Idiots by Thomas Erikson. <break time="400ms"/>
+    He’s not just a writer. <break time="200ms"/> He’s a behavioral consultant who’s worked with leaders at companies like IKEA and Microsoft. <break time="500ms"/>
+
+    In a world full of complex personality tests, this book stands out for one reason: <prosody rate="slow">it’s practical.</prosody> <break time="400ms"/>
+    It doesn’t turn you into a psychologist. <break time="200ms"/>
+    It gives you a simple, color-coded way to understand people—so you can communicate better, lead smarter, and reduce conflict.
+  </prosody>
+
+  <break time="800ms"/>
+
+  <p>
+    <s>The first big idea? Most people fall into one of four behavioral types.</s> <break time="300ms"/>
+    <s>Think of them as four different languages.</s>
+  </p>
+
+  <break time="600ms"/>
+
+  <prosody rate="medium">
+    First: the Reds. <break time="300ms"/>
+    They’re driven, decisive, and focused on results. <break time="200ms"/>
+    They value control, speed, and action. <break time="400ms"/>
+
+    Second: the Yellows. <break time="300ms"/>
+    They’re energetic, social, and love big ideas. <break time="200ms"/>
+    They thrive on interaction and inspiration. <break time="400ms"/>
+
+    Third: the Greens. <break time="300ms"/>
+    They’re calm, loyal, and team-oriented. <break time="200ms"/>
+    They value harmony, trust, and stability. <break time="400ms"/>
+
+    Fourth: the Blues. <break time="300ms"/>
+    They’re analytical, precise, and detail-focused. <break time="200ms"/>
+    They care about accuracy, logic, and quality.
+  </prosody>
+
+  <break time="800ms"/>
+
+  <s>Imagine a team launching a new product.</s> <break time="400ms"/>
+  <s>The Red asks: “What’s the goal? When do we launch?”</s> <break time="300ms"/>
+  <s>The Yellow says: “Let’s make this fun! How do we inspire people?”</s> <break time="300ms"/>
+  <s>The Green wonders: “How will this affect our team’s workload?”</s> <break time="300ms"/>
+  <s>And the Blue replies: “Can I see the data and risk assessment first?”</s> <break time="600ms"/>
+
+  <s>No one is wrong.</s> <break time="300ms"/>
+  <s>They just see the world differently.</s> <break time="800ms"/>
+
+  <prosody rate="slow">Your first action step? Observe.</prosody> <break time="300ms"/>
+  <s>For the next 24 hours, just watch.</s> <break time="200ms"/>
+  <s>Who’s fast-paced? Who needs details? Who values connection?</s> <break time="300ms"/>
+  <s>Don’t judge. Just notice.</s> <break time="800ms"/>
+</speak>
